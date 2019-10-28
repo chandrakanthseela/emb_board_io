@@ -1,0 +1,16 @@
+..\5.bin\tasks.o: ..\2.OS\GENERIC\tasks.c
+..\5.bin\tasks.o: C:\Keil\ARM\ARMCC\bin\..\include\stdio.h
+..\5.bin\tasks.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\5.bin\tasks.o: ..\2.OS\GENERIC\INC\FreeRTOS.h
+..\5.bin\tasks.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+..\5.bin\tasks.o: ..\2.OS\GENERIC\INC\projdefs.h
+..\5.bin\tasks.o: ..\2.OS\GENERIC\INC\FreeRTOSConfig.h
+..\5.bin\tasks.o: ..\2.OS\GENERIC\INC\portable.h
+..\5.bin\tasks.o: ..\2.OS\PORT\INC\portmacro.h
+..\5.bin\tasks.o: ..\2.OS\GENERIC\INC\mpu_wrappers.h
+..\5.bin\tasks.o: ..\2.OS\GENERIC\INC\task.h
+..\5.bin\tasks.o: ..\2.OS\GENERIC\INC\list.h
+..\5.bin\tasks.o: ..\2.OS\GENERIC\INC\timers.h
+..\5.bin\tasks.o: ..\2.OS\GENERIC\INC\StackMacros.h
+..\5.bin\tasks.o: ..\2.OS\PORT\INC\FreeRTOSCommonHooks.h
+..\5.bin\tasks.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h

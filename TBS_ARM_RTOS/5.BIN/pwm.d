@@ -1,0 +1,12 @@
+..\5.bin\pwm.o: ..\3.ECU\pwm.c
+..\5.bin\pwm.o: C:\Keil\ARM\ARMCC\bin\..\include\stdint.h
+..\5.bin\pwm.o: ..\4.MCAL\INC\lpc11xx.h
+..\5.bin\pwm.o: ..\4.MCAL\INC\core_cm0.h
+..\5.bin\pwm.o: ..\4.MCAL\INC\core_cmInstr.h
+..\5.bin\pwm.o: ..\4.MCAL\INC\core_cmFunc.h
+..\5.bin\pwm.o: ..\4.MCAL\INC\system_LPC11xx.h
+..\5.bin\pwm.o: ..\4.MCAL\INC\common.h
+..\5.bin\pwm.o: ..\4.MCAL\INC\clocks.h
+..\5.bin\pwm.o: ..\4.MCAL\INC\ct32b1.h
+..\5.bin\pwm.o: ..\4.MCAL\INC\gpio.h
+..\5.bin\pwm.o: ..\3.ECU\INC\pwm.h

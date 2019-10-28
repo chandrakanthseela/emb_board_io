@@ -1,0 +1,9 @@
+..\5.bin\list.o: ..\2.OS\GENERIC\list.c
+..\5.bin\list.o: ..\2.OS\GENERIC\INC\FreeRTOS.h
+..\5.bin\list.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+..\5.bin\list.o: ..\2.OS\GENERIC\INC\projdefs.h
+..\5.bin\list.o: ..\2.OS\GENERIC\INC\FreeRTOSConfig.h
+..\5.bin\list.o: ..\2.OS\GENERIC\INC\portable.h
+..\5.bin\list.o: ..\2.OS\PORT\INC\portmacro.h
+..\5.bin\list.o: ..\2.OS\GENERIC\INC\mpu_wrappers.h
+..\5.bin\list.o: ..\2.OS\GENERIC\INC\list.h

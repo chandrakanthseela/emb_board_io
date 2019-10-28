@@ -1,0 +1,12 @@
+..\5.bin\queue.o: ..\2.OS\GENERIC\queue.c
+..\5.bin\queue.o: C:\Keil\ARM\ARMCC\bin\..\include\string.h
+..\5.bin\queue.o: ..\2.OS\GENERIC\INC\FreeRTOS.h
+..\5.bin\queue.o: C:\Keil\ARM\ARMCC\bin\..\include\stddef.h
+..\5.bin\queue.o: ..\2.OS\GENERIC\INC\projdefs.h
+..\5.bin\queue.o: ..\2.OS\GENERIC\INC\FreeRTOSConfig.h
+..\5.bin\queue.o: ..\2.OS\GENERIC\INC\portable.h
+..\5.bin\queue.o: ..\2.OS\PORT\INC\portmacro.h
+..\5.bin\queue.o: ..\2.OS\GENERIC\INC\mpu_wrappers.h
+..\5.bin\queue.o: ..\2.OS\GENERIC\INC\task.h
+..\5.bin\queue.o: ..\2.OS\GENERIC\INC\list.h
+..\5.bin\queue.o: ..\2.OS\GENERIC\INC\queue.h
